@@ -1,12 +1,11 @@
-![image-20240214171126511](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20240214171126511.png)
 
-dfs暴搜
+## dfs暴搜
 
 [AcWing 5556. 牛的语言学](https://www.acwing.com/solution/content/199599/)
 
 
 
-dfs枚举
+## dfs枚举
 
 [飞机降落](https://www.dotcpp.com/oj/problem3151.html)
 
@@ -16,13 +15,13 @@ dfs枚举
 
 
 
-迭代加深搜索
+## 迭代加深搜索
 
 [P1763 埃及分数](https://www.luogu.com.cn/problem/P1763)
 
 
 
-BFS遍历图
+## BFS遍历图
 
 [岛屿个数](https://www.acwing.com/problem/content/4962/)
 
@@ -30,7 +29,7 @@ BFS遍历图
 
 
 
-BFS板子
+## BFS板子
 
 ~~~cpp
 // [蓝桥杯 2019 省 A] D 迷宫 

@@ -1,5 +1,10 @@
-![image-20230223173033167](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20230223173033167.png)
+![alt text](assets/image.png)
 
+## 题
+[数三角](https://www.lanqiao.cn/problems/17107/learning/?page=1&first_category_id=1&name=%E6%95%B0%E4%B8%89%E8%A7%92)(map+set)
+
+
+## 示例
 ```cpp
 1.1用binary_search进行二分查找（用法一）
 

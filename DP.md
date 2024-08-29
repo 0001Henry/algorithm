@@ -1,18 +1,16 @@
-![image-20240206210852297](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20240206210852297.png)
-
 ### 线性DP
 
 [鸣人的影分身](https://www.acwing.com/activity/content/code/content/7764549/)
-
-
 
 [状态表示](https://www.acwing.com/problem/content/description/314/)
 
 [最大子序列和](https://www.acwing.com/problem/content/description/1481/)
 
+[**1105. Filling Bookcase Shelves](https://leetcode.cn/problems/filling-bookcase-shelves/description/)
+
+[*1223. Dice Roll Simulation](https://leetcode.cn/problems/dice-roll-simulation/)
 
 
 ### 状压DP
-
-https://www.acwing.com/activity/content/code/content/8716106/
+[AcWing 5729. 闯关游戏](https://www.acwing.com/activity/content/code/content/8716106/)
 
