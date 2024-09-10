@@ -1,0 +1,4 @@
+output/
+*.py
+markdown_note.md
+build
