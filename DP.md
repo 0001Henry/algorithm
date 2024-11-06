@@ -1,3 +1,7 @@
+## 背包
+[完全背包变形+前缀和优化](https://leetcode.cn/problems/find-the-original-typed-string-ii/submissions/578721098/)
+
+
 ## 线性DP
 
 [鸣人的影分身](https://www.acwing.com/activity/content/code/content/7764549/)
